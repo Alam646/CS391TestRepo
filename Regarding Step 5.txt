@@ -1,0 +1,4 @@
+While I was trying to do step 5 on my other repo (https://github.com/Alam646/intern-bootcamp-git), 
+and trying to do the command "git rebase upstream/main", 
+I got a "Everything is up to date" response, 
+and I was told that I was able to skip that step.
